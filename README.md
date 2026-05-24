@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](25766486303@s.whatsapp.net)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/CAyNc1CYQYHEsDB3cUMMs8)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
@@ -254,6 +254,8 @@ Ce projet est sous licence **MIT** - voir le fichier [LICENSE](LICENSE) pour plu
 
 ## 📞 Support & Contact
 
+- 💬 **WhatsApp Group** : [![Join WhatsApp Group](https://img.shields.io/badge/Join%20WhatsApp%20Group-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/CAyNc1CYQYHEsDB3cUMMs8)
+- 💬 **WhatsApp Direct** : [![WhatsApp Me](https://img.shields.io/badge/WhatsApp%20Me-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/25766486303) `25766486303`
 - 📧 **Email** : support@mira-bot.com
 - 💬 **Discord** : [Rejoindre le serveur](https://discord.gg/mira)
 - 🐙 **GitHub Issues** : [Signaler un bug](https://github.com/darkshadow-1er/Mira-md-v1/issues)

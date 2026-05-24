@@ -1,42 +1,15 @@
-# Dependencies
-node_modules/
-npm-debug.log
-yarn-error.log
+# v0 sandbox internal files
+__v0_runtime_loader.js
+__v0_devtools.tsx
+__v0_jsx-dev-runtime.ts
+.snowflake/
+.v0-trash/
+.vercel/
 
-# Environment
-.env
-.env.local
-.env.*.local
+# Environment variables
+.env*.local
 
-# Sessions
-WhatsAppWeb.js/
-.wwebjs_auth/
-session*
-
-# Database
-*.db
-*.sqlite
-
-# Logs
-logs/
-*.log
-
-# OS
-.DS_Store
-Thumbs.db
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# Build
-dist/
-build/
+# Common ignores
+node_modules
 .next/
-
-# Testing
-coverage/
-.nyc_output/
+.DS_Store
